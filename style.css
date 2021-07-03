@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    text-transform: uppercase;
+
+}
+img{
+    height: 50%;
+    width: 50%;
+}
